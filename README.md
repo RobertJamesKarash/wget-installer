@@ -2,7 +2,7 @@ WGET INSTALLER<br />
 Compatible with Windows (x64) XP, 7, 8, 10, and 11
 Downloads and Installs wget to your system to use in Command Prompt; since the latest versions of Windows only support curl.<br /><br />
 Prerequisites<br />
-Microsoft Redistibutable C++ x64 Download:<br />
+Microsoft Redistributable C++ x64 Download:<br />
 https://aka.ms/vs/16/release/vc_redist.x64.exe<br /><br />
 Instructions:
 Run The (Run.cmd) Open Source To Grant Admin Privileges and Execute The Program.<br /><br />
