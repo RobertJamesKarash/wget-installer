@@ -1,5 +1,5 @@
 wget-installer<br />
-Downloads and Installs wget to your system to use in Command Prompt; since the latest versions of Windows only supports curl. </br />
+Downloads and Installs wget to your system to use in Command Prompt; since the latest versions of Windows only support curl. </br />
 Prerequisites <br />
 Microsoft Redisributable C++ x64 Download: <br />
 https://aka.ms/vs/16/release/vc_redist.x64.exe <br >
