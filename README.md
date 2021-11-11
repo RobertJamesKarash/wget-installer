@@ -1,3 +1,4 @@
+WGET THE FUCK OUT OF HERE<br />
 WGET INSTALLER<br />
 Compatible with Windows (x64) XP, 7, 8, 10, and 11
 Downloads and Installs wget to your system to use in Command Prompt; since the latest versions of Windows only support curl.<br /><br />
